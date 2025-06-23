@@ -32,4 +32,4 @@ I'm a passionate Web Developer and Front-End Engineer with strong expertise in b
 
 ---
 
-Feel free to reach out or check out my work on [GitHub](https://github.com/goaldiggerpm) or [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/princemaurya/))!
+Feel free to reach out or check out my work on [GitHub](https://github.com/goaldiggerpm) or [LinkedIn](https://www.linkedin.com/in/princemaurya/)!
