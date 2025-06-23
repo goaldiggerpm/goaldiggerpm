@@ -13,7 +13,7 @@ I'm a passionate Web Developer and Front-End Engineer with strong expertise in b
 - D3.js, Chart.js, React Flow
 
 ### ⚙️ Tools & Platforms
-- Git, Figma, MS Copilot, BrowserStack, Browser Developer Tools
+- Git, Figma, MS Copilot, BrowserStack, Postman, Browser Developer Tools
 
 ### 🧠 Architecture & Performance
 - Pagination, Lazy Loading, Infinite Scrolling, Data Virtualization, Caching, Compression
